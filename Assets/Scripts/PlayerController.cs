@@ -55,7 +55,6 @@ public class PlayerController : NetworkBehaviour {
         timeSinceLastShot = 0;
       }
     }
-
 	}
 
   [Command]
